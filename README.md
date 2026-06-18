@@ -1,4 +1,4 @@
-# -muhammadali1473
+# muhammadali1473
 h1 align="center">Hi, I'm Muhammad Ali 👋</h1>
   <h3 align="center">Machine Learning & Computer Vision Developer | Python | FastAPI</h3>
 
