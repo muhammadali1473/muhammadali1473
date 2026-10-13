@@ -1,5 +1,5 @@
 # muhammadali1473
-h1 align="center">Hi, I'm Muhammad Ali 👋</h1>
+h1 align="center">Hi, I'm Muhammad Ali </h1>
   <h3 align="center">Machine Learning & Computer Vision Developer | Python | FastAPI</h3>
 
   <p align="center">
@@ -16,7 +16,7 @@ h1 align="center">Hi, I'm Muhammad Ali 👋</h1>
 
   ---
 
-  ### 🚀 About Me
+  ###  About Me
 
   - 🤖 I build **Machine Learning** and **Computer Vision** solutions in Python
   - 🔭 Currently building a **ML-Powered Chatbot** with **FastAPI** and **Hugging Face**
@@ -37,7 +37,7 @@ h1 align="center">Hi, I'm Muhammad Ali 👋</h1>
 
   ---
 
-  ### 📌 Featured Projects
+  ###  Featured Projects
 
   - 🏙️ **[Scene-Reconstruction-from-Images](https://github.com/muhammadali1473/Scene-Reconstruction-from-Images)** — 3D
   reconstruction from photos using OpenCV + PyTorch Gaussian Splatting
